@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "345006094781",
+    "project_id": "ryan-taxi-app",
+    "storage_bucket": "ryan-taxi-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345006094781:android:b2cbc1b420ad6ec5ccbad4",
+        "android_client_info": {
+          "package_name": "com.ryan.appsbyreezy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzxZJsg5CtuxiPCL8fMymgmUP8fNeR_DQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
