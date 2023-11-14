@@ -33,7 +33,8 @@ A Flutter-based mobile application for taxi services. This app provides a conven
 ![screenshot 3](https://github.com/Ryan070178060/app-dev/assets/120778725/9e92e8bd-5063-4379-94ed-c25c4f640c74)
 ![screenshot 1](https://github.com/Ryan070178060/app-dev/assets/120778725/cea277a8-a432-4334-9edd-1f5e738b5cef)
 
-
+## Contributing
+Contributions are welcome! If you find any bugs or have suggestions for improvement, feel free to open an issue or create a pull request.
 
 ## Getting Started
 
