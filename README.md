@@ -36,7 +36,14 @@ A Flutter-based mobile application for taxi services. This app provides a conven
 ## Contributing
 Contributions are welcome! If you find any bugs or have suggestions for improvement, feel free to open an issue or create a pull request.
 
-## Getting Started
+
+##  License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+##  Acknowledgments
+Thanks to Flutter for providing an amazing framework.
+##  Contact
+For any inquiries or collaborations, please contact [ryanshamala023@gmail.com].
 
 ### Prerequisites
 
